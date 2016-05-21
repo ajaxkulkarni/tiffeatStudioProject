@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "960536093072",
+    "project_id": "tiffeat-1083"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960536093072:android:cca491fbc302c526",
+        "android_client_info": {
+          "package_name": "com.rns.tiffeat.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960536093072-58ittphf4l4pbiv656bmholsvchdipv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rns.tiffeat.mobile",
+            "certificate_hash": "DDFE9520FE832A12843352259046FAAF6D7AF73C"
+          }
+        },
+        {
+          "client_id": "960536093072-h3r128v7g6k94255qdjso0bj2etmdugo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rns.tiffeat.mobile",
+            "certificate_hash": "9E4CEFBE38A53814550A5B71F2E060A46DB5F9B9"
+          }
+        },
+        {
+          "client_id": "960536093072-6f6t3gpbe73i35seo2r308bvckpjksbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjl201N868_Jkjj-nQSqi41q-23LPdD0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
